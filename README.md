@@ -94,7 +94,7 @@ variable "name" {
 Run terraform init to see everything it installs. In this one you will see it installing modules at the top.
 
 ```sh
-terraform12 init
+terraform init
 Initializing modules...
 
 Initializing the backend...
